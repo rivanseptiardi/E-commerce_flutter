@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378915979300",
+    "project_id": "flutter-crud-rivan-36c52",
+    "storage_bucket": "flutter-crud-rivan-36c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378915979300:android:96b6941e40c9254fc7d8b1",
+        "android_client_info": {
+          "package_name": "com.example.crud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378915979300-9engv6v5na00on6v5jtfeqn8abg3hga0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_firestore",
+            "certificate_hash": "3d0b7fb1e28e893685feae909313ec53747446f0"
+          }
+        },
+        {
+          "client_id": "378915979300-u29354keiql4ng59fkd0fj00r442arae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1qHYmDaxdnsFSOrUbZHFLLJwsQjnrhm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378915979300-u29354keiql4ng59fkd0fj00r442arae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
